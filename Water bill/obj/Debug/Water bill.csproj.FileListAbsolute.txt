@@ -1,0 +1,22 @@
+C:\Users\Vihanga B\source\repos\Water bill\Water bill\bin\Debug\Water bill.exe.config
+C:\Users\Vihanga B\source\repos\Water bill\Water bill\bin\Debug\Water bill.exe
+C:\Users\Vihanga B\source\repos\Water bill\Water bill\bin\Debug\Water bill.pdb
+C:\Users\Vihanga B\source\repos\Water bill\Water bill\obj\Debug\Water bill.csproj.AssemblyReference.cache
+C:\Users\Vihanga B\source\repos\Water bill\Water bill\obj\Debug\Water_bill.Form1.resources
+C:\Users\Vihanga B\source\repos\Water bill\Water bill\obj\Debug\Water_bill.Form2.resources
+C:\Users\Vihanga B\source\repos\Water bill\Water bill\obj\Debug\Water_bill.Properties.Resources.resources
+C:\Users\Vihanga B\source\repos\Water bill\Water bill\obj\Debug\Water bill.csproj.GenerateResource.cache
+C:\Users\Vihanga B\source\repos\Water bill\Water bill\obj\Debug\Water bill.csproj.CoreCompileInputs.cache
+C:\Users\Vihanga B\source\repos\Water bill\Water bill\obj\Debug\Water bill.exe
+C:\Users\Vihanga B\source\repos\Water bill\Water bill\obj\Debug\Water bill.pdb
+D:\Programming\C# Academic Project\Water bill\Water bill\bin\Debug\Water bill.exe.config
+D:\Programming\C# Academic Project\Water bill\Water bill\bin\Debug\Water bill.exe
+D:\Programming\C# Academic Project\Water bill\Water bill\bin\Debug\Water bill.pdb
+D:\Programming\C# Academic Project\Water bill\Water bill\obj\Debug\Water bill.csproj.AssemblyReference.cache
+D:\Programming\C# Academic Project\Water bill\Water bill\obj\Debug\Water_bill.Form1.resources
+D:\Programming\C# Academic Project\Water bill\Water bill\obj\Debug\Water_bill.Form2.resources
+D:\Programming\C# Academic Project\Water bill\Water bill\obj\Debug\Water_bill.Properties.Resources.resources
+D:\Programming\C# Academic Project\Water bill\Water bill\obj\Debug\Water bill.csproj.GenerateResource.cache
+D:\Programming\C# Academic Project\Water bill\Water bill\obj\Debug\Water bill.csproj.CoreCompileInputs.cache
+D:\Programming\C# Academic Project\Water bill\Water bill\obj\Debug\Water bill.exe
+D:\Programming\C# Academic Project\Water bill\Water bill\obj\Debug\Water bill.pdb
